@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>XmrWallet.Core</RootNamespace>
+    <AssemblyName>XmrWallet.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
